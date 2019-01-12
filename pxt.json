@@ -10,7 +10,8 @@
         "README.md",
         "main.ts",
         "Adafruit_BME280.h",
-        "Adafruit_BME280.cpp"
+        "Adafruit_BME280.cpp",
+        "enums.d.ts"
     ],
     "testFiles": [
         "test.ts"
